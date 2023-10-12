@@ -1,5 +1,5 @@
 
-![Logo](resources/openai.svg)
+![Logo]([resouropenai.svgces/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.magnolia-cms.com%2Fmarketplace%2Fdetail%2Fdall-e.html&psig=AOvVaw2dupWyOTk91k1tT_wMHIzo&ust=1697220436216000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPC6ofuM8YEDFQAAAAAdAAAAABAE))
 
 
 # DALL - E 2.0 
